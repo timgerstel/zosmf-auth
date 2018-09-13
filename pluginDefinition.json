@@ -1,9 +1,9 @@
-{
+m{
   "identifier": "com.rs.auth.zosmfAuth",
   "pluginType": "nodeAuthentication",
   "authenticationCategory": "zosmf",
   "apiVersion": "1.0.0",
-  "pluginVersion": "0.9.0",
+  "pluginVersion": "1.0.0",
   "filename": "zosmfAuth.js",
   "dataServices": [
     {
